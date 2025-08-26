@@ -20,6 +20,8 @@ This approach provides a data-driven method for structuring course catalogs and 
 - **Optimal Cluster Determination:** Implements the Elbow method and Silhouette score to find the most appropriate number of clusters for the dataset.
 - **Clustering Algorithms:** Demonstrates the application of K-Means clustering for grouping courses.
 - **Visualization:** Generates various plots to visualize clustering results and aid in the interpretation of specializations.
+  <img width="1118" height="423" alt="image" src="https://github.com/user-attachments/assets/80d42caa-c011-49a6-ada4-eb029b730bca" />
+
 
 ## Getting Started
 
